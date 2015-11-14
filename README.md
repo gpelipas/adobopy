@@ -1,2 +1,3 @@
 # adobopy
-python mvc
+
+A Python Web Development Framework 
